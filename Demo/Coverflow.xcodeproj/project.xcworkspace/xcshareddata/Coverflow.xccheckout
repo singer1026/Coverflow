@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>77BF359A-3E24-4600-9456-99D403850BE4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>429F3B42F53D579E6B0D2547AD6579407BC36D4F</key>
+		<string>github.com:singer1026/Coverflow.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo/Coverflow.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>429F3B42F53D579E6B0D2547AD6579407BC36D4F</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:singer1026/Coverflow.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>429F3B42F53D579E6B0D2547AD6579407BC36D4F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>429F3B42F53D579E6B0D2547AD6579407BC36D4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Coverflow-master</string>
+		</dict>
+	</array>
+</dict>
+</plist>

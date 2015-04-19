@@ -30,6 +30,7 @@
 		4576D0BE161236A10006877C /* Interpolator.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4576D0B6161236A10006877C /* Interpolator.cpp */; };
 		458DD6161610F71C00DB2DD2 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 458DD6151610F71C00DB2DD2 /* AssetsLibrary.framework */; };
 		45C56F3F1612A5120066CADB /* CReflectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 45C56F3E1612A5120066CADB /* CReflectionView.m */; };
+		46C3485C1AE3F226006390EB /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C3485B1AE3F226006390EB /* 1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		458DD6151610F71C00DB2DD2 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
 		45C56F3D1612A5120066CADB /* CReflectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CReflectionView.h; sourceTree = "<group>"; };
 		45C56F3E1612A5120066CADB /* CReflectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CReflectionView.m; sourceTree = "<group>"; };
+		46C3485B1AE3F226006390EB /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				452250EE16123719007FEECC /* Demo */,
 				456BDDD21610896400398F00 /* Frameworks */,
 				456BDDD01610896400398F00 /* Products */,
+				46C3485B1AE3F226006390EB /* 1.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -220,6 +223,7 @@
 				4522516F16123719007FEECC /* Default@2x.png in Resources */,
 				4522517016123719007FEECC /* InfoPlist.strings in Resources */,
 				4522517116123719007FEECC /* MainStoryboard.storyboard in Resources */,
+				46C3485C1AE3F226006390EB /* 1.jpg in Resources */,
 				452251DD1612372B007FEECC /* Images in Resources */,
 				452251E716124093007FEECC /* CCoverflowTitleView.xib in Resources */,
 			);

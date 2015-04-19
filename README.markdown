@@ -4,7 +4,8 @@
 
 This is an iPhone project implementing Coverflow using iOS 6 UICollectionViews and a custom UICollectionViewLayout
 
-Screenshot: [http://cloud.schwa.io/image/0z0N3A0e2b1l](http://cloud.schwa.io/image/0z0N3A0e2b1l)
+Screenshot: 
+![alt Home](https://raw.githubusercontent.com/singer1026/Coverflow/master/1.jpg)
 
 View it in action here: [CollectionViewCoverFlow.mov](http://cloud.schwa.io/1120003t3N2Y)
 
